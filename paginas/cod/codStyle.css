@@ -1,0 +1,38 @@
+body, h1, h2{
+    margin: 0;
+    background-color: black;
+    
+}
+.nav{
+    background-color: rgb(33, 33, 222); 
+    height: 70px;
+}
+#titulo{
+    padding: 10px 40px;
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+    float: left;
+}
+#espaco{
+    height: 420px;
+}
+.row{
+    display: flex;
+}
+#jogos{
+    background-color: rgb(168, 161, 161);
+}
+#titulo2{
+    padding: 10px 40px;
+    font-size: 38px;
+    text-align: center;
+}
+
+.call{
+    color: rgb(0, 255, 0);
+    margin: 70px;
+}
+.rodape{
+    color: white;
+    text-align: center;
+}
